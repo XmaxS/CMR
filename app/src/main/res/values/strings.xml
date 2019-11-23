@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CMR</string>
+    <string name="open_photoAlbum">打开相册</string>
+    <string name="open_camera">打开相机</string>
 </resources>
